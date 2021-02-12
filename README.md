@@ -1,3 +1,3 @@
-# Hybrid Quantum-Classical Machine Learning Algorithm for K-means Clustering
+## Hybrid Quantum-Classical Machine Learning Algorithm for K-means Clustering
 
 $$\sum\sum$$
