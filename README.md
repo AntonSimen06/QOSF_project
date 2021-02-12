@@ -1,3 +1,3 @@
 ## Hybrid Quantum-Classical Machine Learning Algorithm for K-means Clustering
 
-$$ \sum\sum $$
+This project was developed as part of the Quantum Open Source Foundation (QOSF) Mentorship program. It was developed by two mentees, Anton Simen and Mauro Nooblath, both from Federal University of Latin-American Integration and mentored by Ethan Hansen from Zapata Computing. The main reference of this work is the article written by Aram which can be found in arXiv:2004.00026v1[quant-ph]. The work consists of two parts. The first and purely classical part is: from a large initial data set X, create a much smaller subset X' (coreset). The second one is: using a quantum algorithm as an optimization algorithm which helps K-means to find the best Clustering. 
